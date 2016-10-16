@@ -27,3 +27,9 @@ You will learn the skills you need to complete this project in these courses:
 - Next Steps: Required Tasks
 - Download the completed document as a PDF, and save it as: "Capstone_Stage1.pdf"
 - Submit the PDF document in a zip file or from a GitHub repo through the project submission portal.
+
+
+# Discover Now - application name
+
+Description
+This app connects buyers and sellers. The buyers can see who are offering discounts, promos, etc near them. The sellers can see who are near their stores or on their stores.  
